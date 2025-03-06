@@ -1,2 +1,2 @@
 # Extraindo-Dados-MercadoLivre
-Projeto em Python que permite ao usuário extrair dados de produtos do Mercado Livre, como nome, link, marca, nota, avaliações e preço. O código coleta as informações e as armazena automaticamente em um banco de dados Supabase após tratar os dados.
+Projeto desenvolvido usando a plataforma Google Colaboratory permite ao usuário extrair dados de produtos específicos no Mercado Livre. O código solicita ao usuário o nome do produto e, em seguida, coleta as seguintes informações; nome, link, marca, nota, avaliações e preço.
